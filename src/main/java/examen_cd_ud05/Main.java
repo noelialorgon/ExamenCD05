@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Examen5 cuentaExamen;
         double saldoActual;
+        System.out.println("Estas son las operaciones:");
 
         operativa_cuenta_examen(10.0F);
     }
